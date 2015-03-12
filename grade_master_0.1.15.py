@@ -6,7 +6,7 @@ REVISION_DATE = "2015-03-09"
 AUTHOR = "(hachmann@buffalo.edu)"
 DESCRIPTION = "This is a small program to help faculty manage course grades, make projections, etc."
 
-# Version history timeline
+# Version history timeline:
 # v0.0.1 (2015-03-02): pseudocode outline 
 # v0.0.2 (2015-03-02): more detailed pseudocode outline 
 # v0.1.0 (2015-03-02): add basic code infrastructure from previous scripts
